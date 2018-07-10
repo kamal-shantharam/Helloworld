@@ -64,8 +64,8 @@ public class RandomizerPrimeApp {
 				}
 			}
 		}
-	}
-
+	} 
+ 
 	public boolean isPrimeNumber(int primeNumber) {
 		if (primeNumber > 0) {
 			for (int i = 2; i < primeNumber; i++) {
